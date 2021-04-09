@@ -8,3 +8,6 @@ https://github.com/cybercat37794/ARDUINO-project-codes-with-cpp/tree/main/Traffi
 
 # Temperature Sensing and Controlling System
 https://github.com/cybercat37794/ARDUINO-project-codes-with-cpp/tree/main/Temperature-sensing-and-control-system#temperature-sensing-and-controlling-system-using-arduino
+
+# Decade Counter System
+https://github.com/cybercat37794/ARDUINO-project-codes-with-cpp/tree/main/Decade%20counter%20system#decade-counter-system-using-arduino
